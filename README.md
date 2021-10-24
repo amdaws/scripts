@@ -1,5 +1,5 @@
-# #L.A.M.P
+# #Script Sap
 
 ### What is this repo for?
 
-This script will install all LAMP components. 
+A collection of batch scripts.
